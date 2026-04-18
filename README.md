@@ -6,7 +6,6 @@
 
 - 🎓 Studying **Software Engineering** at Kazakh-British Technical University.
 - 🇬🇧 **Oxford Experience**: Spent 4 weeks in Oxford, UK — intensive academic immersion & fluent English practice.
-- 🌍 Incoming Exchange Student at **Brno University of Technology** (Fall 2026).
 - 🛠 Currently mastering **Python**, **Django**, and **PostgreSQL**.
 - 📈 Aspiring to build a career in **Data Science** and Machine Learning.
 
